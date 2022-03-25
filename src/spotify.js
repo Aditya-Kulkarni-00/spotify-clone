@@ -2,7 +2,7 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = "ec5fac8bf11744f5b704fffddb4a911f";
-const redirectUri = "spotify-clone-eosin.vercel.app/";
+const redirectUri = "http://spotify-clone-eosin.vercel.app/";
 const scopes = [
   "user-read-currently-playing",
   "user-read-recently-played",
